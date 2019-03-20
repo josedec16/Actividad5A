@@ -4,6 +4,11 @@ import java.util.Scanner;
 import pasapalabra.EstudiaIntentos;
 
 public class El_Ahorcado extends javax.swing.JFrame {
+    
+    
+    //Modificación para actividad 5A pro
+    
+    
     Scanner entradas = new Scanner(System.in);
     static EstudiaIntentos objeto = new EstudiaIntentos();    
     static char ch;
